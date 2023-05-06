@@ -85,7 +85,7 @@ import UncontrolledLogin from './UncontrolledLogin';
 function App() {
   const handleLogin = (credentials) => {
     console.log('Login with:', credentials);
-    // Do actual login logic here
+    
   };
 
   return (
